@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    margin: 0px;
+    padding: 0px;
+    top: 0px;
+    bottom: 0px;
+    font-family: "Shadows Into Light", serif;
+  font-weight: 400;
+  font-style: normal;
+  background: linear-gradient(135deg, #4434F8, #6A4FFF); /* Gradient from purple to lighter purple */
+}
+
+/* .background{
+    background-color: #4A56F3;
+    height: 450px;
+} */
